@@ -3,9 +3,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pllap&show_icons=true&theme=github_dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -46,18 +46,20 @@ Sunday                   68 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     3 hrs 2 mins        █████████████████████████   100.00 % 
+Java                     3 hrs 56 mins       █████████████████████████   99.88 % 
+Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-IntelliJ                 3 hrs 2 mins        █████████████████████████   100.00 % 
+IntelliJ                 3 hrs 56 mins       █████████████████████████   100.00 % 
 Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-problem-solving-java     3 hrs 2 mins        █████████████████████████   99.87 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+problem-solving-java     3 hrs 56 mins       █████████████████████████   99.90 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Mac                      3 hrs 2 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 2 mins        ███████████████████░░░░░░   77.38 % 
+Windows                  53 mins             ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
 ```
 
 **I Mostly Code in Java** 
@@ -77,7 +79,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pllap/pllap/main/assets/bar_graph.png)
 
 
- Last Updated on 01/06/2023 21:16:00 UTC
+ Last Updated on 02/06/2023 21:16:54 UTC
 <!--END_SECTION:waka-->
 
 
