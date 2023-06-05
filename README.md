@@ -3,9 +3,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pllap&show_icons=true&theme=github_dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **🐱 My GitHub Data** 
 
@@ -46,20 +46,20 @@ Sunday                   68 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     5 hrs 56 mins       █████████████████████████   99.92 % 
-Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Java                     7 hrs 48 mins       █████████████████████████   99.94 % 
+Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-IntelliJ                 5 hrs 57 mins       █████████████████████████   100.00 % 
+IntelliJ                 7 hrs 48 mins       █████████████████████████   100.00 % 
 Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-problem-solving-java     5 hrs 57 mins       █████████████████████████   99.93 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+problem-solving-java     7 hrs 48 mins       █████████████████████████   99.95 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Mac                      5 hrs 3 mins        █████████████████████░░░░   85.03 % 
-Windows                  53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Mac                      6 hrs 54 mins       ██████████████████████░░░   88.58 % 
+Windows                  53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
 ```
 
 **I Mostly Code in Java** 
@@ -79,7 +79,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pllap/pllap/main/assets/bar_graph.png)
 
 
- Last Updated on 04/06/2023 21:15:57 UTC
+ Last Updated on 05/06/2023 21:15:56 UTC
 <!--END_SECTION:waka-->
 
 
