@@ -3,9 +3,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pllap&show_icons=true&theme=github_dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -46,17 +46,17 @@ Sunday                   67 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     16 hrs 53 mins      █████████████████████████   100.00 % 
+Java                     17 hrs 37 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ                 16 hrs 53 mins      █████████████████████████   100.00 % 
+IntelliJ                 17 hrs 37 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-problem-solving-java     16 hrs 52 mins      █████████████████████████   99.85 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+problem-solving-java     17 hrs 35 mins      █████████████████████████   99.87 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Mac                      16 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -76,7 +76,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pllap/pllap/main/assets/bar_graph.png)
 
 
- Last Updated on 18/06/2023 21:16:04 UTC
+ Last Updated on 19/06/2023 21:17:09 UTC
 <!--END_SECTION:waka-->
 
 
