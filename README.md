@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pllap&show_icons=true&theme=github_dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -46,20 +46,20 @@ Sunday                   67 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     12 hrs 48 mins      █████████████████████████   99.79 % 
+Java                     12 hrs 36 mins      █████████████████████████   99.79 % 
 Kotlin                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-IntelliJ                 12 hrs 49 mins      █████████████████████████   100.00 % 
+IntelliJ                 12 hrs 38 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-problem-solving-java     10 hrs 51 mins      █████████████████████░░░░   84.66 % 
-simple-api-server        1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+problem-solving-java     10 hrs 36 mins      █████████████████████░░░░   83.98 % 
+simple-api-server        2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Mac                      12 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -79,7 +79,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pllap/pllap/main/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2023 21:18:40 UTC
+ Last Updated on 24/06/2023 21:18:11 UTC
 <!--END_SECTION:waka-->
 
 
