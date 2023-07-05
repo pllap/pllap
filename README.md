@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pllap&show_icons=true&theme=github_dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -46,17 +46,22 @@ Sunday                   67 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     6 hrs 32 mins       █████████████████████████   100.00 % 
+Java                     5 hrs 7 mins        █████████████████████░░░░   83.84 % 
+Gradle                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Groovy                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+HTML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 
 🔥 Editors: 
-IntelliJ                 6 hrs 32 mins       █████████████████████████   100.00 % 
+IntelliJ                 6 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-problem-solving-java     6 hrs 32 mins       █████████████████████████   99.96 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+problem-solving-java     5 hrs 6 mins        █████████████████████░░░░   83.56 % 
+sso-with-github          58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Mac                      6 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -76,7 +81,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pllap/pllap/main/assets/bar_graph.png)
 
 
- Last Updated on 04/07/2023 21:18:53 UTC
+ Last Updated on 05/07/2023 21:19:38 UTC
 <!--END_SECTION:waka-->
 
 
