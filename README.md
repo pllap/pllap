@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pllap&show_icons=true&theme=github_dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -46,18 +46,17 @@ Sunday                   68 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     3 hrs 9 mins        █████████████████████████   100.00 % 
+Java                     2 hrs 37 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ                 3 hrs 9 mins        █████████████████████████   100.00 % 
+IntelliJ                 2 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-problem-solving-java     3 hrs 4 mins        ████████████████████████░   97.04 % 
-Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-bill-manager-be          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+problem-solving-java     2 hrs 32 mins       ████████████████████████░   96.58 % 
+Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 
 💻 Operating System: 
-Mac                      3 hrs 9 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -77,7 +76,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pllap/pllap/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2023 21:06:51 UTC
+ Last Updated on 24/07/2023 21:07:15 UTC
 <!--END_SECTION:waka-->
 
 
