@@ -3,13 +3,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pllap&show_icons=true&theme=github_dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 63.1 kB Used in GitHub's Storage 
+> 📦 63.2 kB Used in GitHub's Storage 
  > 
 > 🏆 148 Contributions in the Year 2023
  > 
@@ -81,7 +81,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pllap/pllap/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2023 21:07:04 UTC
+ Last Updated on 20/08/2023 21:06:52 UTC
 <!--END_SECTION:waka-->
 
 
