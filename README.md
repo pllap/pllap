@@ -46,16 +46,16 @@ Sunday                   68 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Kotlin                   20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-toy                      20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -75,7 +75,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pllap/pllap/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2025 21:08:23 UTC
+ Last Updated on 10/10/2025 21:07:49 UTC
 <!--END_SECTION:waka-->
 
 
